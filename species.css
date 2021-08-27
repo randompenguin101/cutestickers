@@ -1,0 +1,32 @@
+body{
+	font-family: 'Comic Neue', cursive;
+	background-color: rgba(239, 255, 254, 1);
+}
+p{
+	background-color: rgba(255, 224, 224, 1);
+	height: 540px;
+	width: 801px;
+	border-radius: 205px;
+	padding: 100px;
+	font-size: 36px;
+	margin-left: 107px;
+}
+img{
+	height: 100px;
+	width: 100px;
+	border-radius: 200px;
+	margin-left: 1027px;
+}
+a{
+	font-size: 48px;
+	font-family: 'Comic Neue', cursive;
+	color: black;
+	display: inline;
+	text-align: center;
+}
+div{
+	background-color: rgba(255, 224, 224, 1);
+	height: 180px;
+	width: 100%;
+	display: flex;
+}

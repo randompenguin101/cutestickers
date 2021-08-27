@@ -1,0 +1,43 @@
+body{
+	background-color: rgba(239, 255, 254, 1);
+}
+h2{
+	background-color: rgba(236, 236, 236, 1);
+	border: solid 5px rgba(255, 224, 224, 1);
+ 	color: rgba(255, 176, 176, 1);
+ 	width: 920px;
+ 	height: 520px;
+ 	font-family: 'Carrois Gothic SC', sans-serif;
+	font-size: 192px;
+	align-content: center;
+	margin-top: 160px;
+	margin-left: 124px;
+}
+p{
+	height: 252px;
+	font-family: 'Comic Neue', cursive;
+	width: 872px;
+	background-color: rgba(255, 224, 224, 1);
+	font-size: 48px;
+	color: rgba(255, 152, 152, 1);
+	text-align: right;
+	margin-left: 124px;
+}
+img{
+	height: 800px;
+	width: 800px;
+	border-radius: 400px 400px 400px 400px;	
+}
+a{
+	font-size: 96px;
+	font-family: 'Comic Neue', cursive;
+	color: black;
+	display: inline;
+	padding: 25px;
+}
+div{
+	background-color: rgba(255, 224, 224, 1);
+	height: 180px;
+	width: 100%;
+	text-align: center;
+}
